@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/04-week/04-week.iml" filepath="$PROJECT_DIR$/04-week/04-week.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07-week/07-week.iml" filepath="$PROJECT_DIR$/07-week/07-week.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09-week/09-week.iml" filepath="$PROJECT_DIR$/09-week/09-week.iml" />
+      <module fileurl="file://$PROJECT_DIR$/14-week/14-week.iml" filepath="$PROJECT_DIR$/14-week/14-week.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/estructura-datos-2025-b-g1.iml" filepath="$PROJECT_DIR$/.idea/estructura-datos-2025-b-g1.iml" />
+    </modules>
+  </component>
+</project>
